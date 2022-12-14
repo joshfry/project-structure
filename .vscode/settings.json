@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "src/plop-templates": true
+  },
+  "editor.formatOnSave": true
+}
